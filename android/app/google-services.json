@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112049537422",
+    "project_id": "ecommerce-multivendor-cd06c",
+    "storage_bucket": "ecommerce-multivendor-cd06c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112049537422:android:536d5db70c41dd7019e4df",
+        "android_client_info": {
+          "package_name": "com.example.admin_web_app_multivendor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3wcC2P9f_Nc6jp_Kf2O38HAD6px3r8QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112049537422:android:532b8149511d671619e4df",
+        "android_client_info": {
+          "package_name": "com.example.tunasauctionv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3wcC2P9f_Nc6jp_Kf2O38HAD6px3r8QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
